@@ -2,55 +2,46 @@
   {
     "name": "Luxurious Gold Pants",
     "price": "868.99",
-    "category": "Grocery",
-    "description": "Savor the crispy essence in our Soap, designed for uncommon culinary adventures"
+    "category": "Grocery"
   },
   {
     "name": "Ergonomic Plastic Shoes",
     "price": "442.06",
-    "category": "Garden",
-    "description": "Ergonomic Computer made with Metal for all-day white support"
+    "category": "Garden"
   },
   {
     "name": "Oriental Silk Computer",
     "price": "945.54",
-    "category": "Movies",
-    "description": "Discover the valuable new Hat with an exciting mix of Concrete ingredients"
+    "category": "Movies"
   },
   {
     "name": "Recycled Granite Car",
     "price": "403.79",
-    "category": "Electronics",
-    "description": "Introducing the Japan-inspired Car, blending ill style with local craftsmanship"
+    "category": "Electronics"
   },
   {
     "name": "Generic Metal Shirt",
     "price": "502.45",
-    "category": "Kids",
-    "description": "The Monitored global model Mouse offers reliable performance and rapid design"
+    "category": "Kids"
   },
   {
     "name": "Rustic Bamboo Ball",
     "price": "689.95",
-    "category": "Outdoors",
-    "description": "Our cow-friendly Sausages ensures worthy comfort for your pets"
+    "category": "Outdoors"
   },
   {
     "name": "Unbranded Concrete Gloves",
     "price": "960.29",
-    "category": "Music",
-    "description": "The Progressive client-server generative AI Bike offers reliable performance and optimistic design"
+    "category": "Music"
   },
   {
     "name": "Luxurious Bamboo Table",
     "price": "999.29",
-    "category": "Toys",
-    "description": "Stylish Computer designed to make you stand out with giving looks"
+    "category": "Toys"
   },
   {
     "name": "Awesome Ceramic Mouse",
     "price": "381.15",
-    "category": "Industrial",
-    "description": "Innovative Computer featuring pleasing technology and Metal construction"
+    "category": "Industrial"
   }
 ]

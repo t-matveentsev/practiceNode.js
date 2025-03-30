@@ -6,7 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate": "node src/scripts/generateProducts.js",
     "getProductsByMinPrice": "node src/scripts/getProductsByMinPrice.js",
-    "getTotalPrice": "node src/scripts/getTotalPrice.js"
+    "getTotalPrice": "node src/scripts/getTotalPrice.js",
+    "modifyProducts": "node src/scripts/modifyProducts.js"
   },
   "repository": {
     "type": "git",
