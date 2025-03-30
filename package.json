@@ -8,7 +8,8 @@
     "getProductsByMinPrice": "node src/scripts/getProductsByMinPrice.js",
     "getTotalPrice": "node src/scripts/getTotalPrice.js",
     "modifyProducts": "node src/scripts/modifyProducts.js",
-    "getProductsCategories": "node src/scripts/getProductsCategories.js"
+    "getProductsByCategories": "node src/scripts/getProductsCategories.js",
+    "groupProductByCategories": "node src/scripts/groupProductsByCategories.js"
   },
   "repository": {
     "type": "git",

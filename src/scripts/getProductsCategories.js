@@ -7,10 +7,26 @@ const getProductsCategories = async () => {
     const filteredCategories = productCategories.filter(
       (category, index, array) => array.indexOf(category) === index
     );
-    console.log(`Product Categories: ${filteredCategories} `);
+    console.log(`Product Categories: ${filteredCategories.join(", ")} `);
   } catch (error) {
     console.error(error);
   }
 };
 
 getProductsCategories();
+
+
+// const getProductsCategories = async () => {
+//   try {
+//     const productsList = await readProducts();
+//     const filteredCategories = [
+//       ...new Set(productsList.map(({ category }) => category)),
+//     ];
+
+//     console.log(`Product Categories: ${filteredCategories.join(", ")}`);
+//   } catch (error) {
+//     console.error(error);
+//   }
+// };
+
+// getProductsCategories();
