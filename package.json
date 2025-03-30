@@ -7,7 +7,8 @@
     "generate": "node src/scripts/generateProducts.js",
     "getProductsByMinPrice": "node src/scripts/getProductsByMinPrice.js",
     "getTotalPrice": "node src/scripts/getTotalPrice.js",
-    "modifyProducts": "node src/scripts/modifyProducts.js"
+    "modifyProducts": "node src/scripts/modifyProducts.js",
+    "getProductsCategories": "node src/scripts/getProductsCategories.js"
   },
   "repository": {
     "type": "git",
