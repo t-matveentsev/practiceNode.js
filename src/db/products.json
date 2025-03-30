@@ -1,1 +1,14 @@
-[]
+[
+ {
+  "name": "Luxurious Gold Pants",
+  "price": "868.99",
+  "category": "Grocery",
+  "description": "Savor the crispy essence in our Soap, designed for uncommon culinary adventures"
+ },
+ {
+  "name": "Ergonomic Plastic Shoes",
+  "price": "442.06",
+  "category": "Garden",
+  "description": "Ergonomic Computer made with Metal for all-day white support"
+ }
+]

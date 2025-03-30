@@ -1,3 +1,3 @@
 import path from "node:path";
 
-const PATH_DB = path.resolve("src", "db", "products.json");
+export const PATH_DB = path.resolve("src", "db", "products.json");
